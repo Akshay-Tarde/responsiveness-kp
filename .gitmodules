@@ -4,3 +4,6 @@
 [submodule "blog-site"]
 	path = blog-site
 	url = https://github.com/Akshay-Tarde/blog-site.git
+[submodule "navbar-challenge"]
+	path = navbar-challenge
+	url = https://github.com/Akshay-Tarde/navbar-challenge.git
